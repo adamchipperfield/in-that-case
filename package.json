@@ -1,0 +1,11 @@
+{
+  "name": "in-that-case",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "1.22.2"
+  },
+  "imports": {
+    "#index": "./index.js"
+  }
+}
