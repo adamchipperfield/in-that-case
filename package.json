@@ -1,4 +1,7 @@
 {
   "name": "in-that-case",
-  "version": "1.0.3"
+  "version": "1.0.4",
+  "description": "Helper methods for transforming strings into different formats.",
+  "author": "Adam Chipperfield <adamchipperfield01@gmail.com>",
+  "repository": "https://github.com/adamchipperfield/in-that-case"
 }
