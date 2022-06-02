@@ -7,7 +7,7 @@
  * @param {string} input - The user input.
  * @returns - The transformed string.
  */
-export function kebab(input) {
+function kebab(input) {
   return input
     .split(' ')
 
@@ -34,4 +34,8 @@ export function kebab(input) {
     .join('')
     .trim()
     .replace(/[_\s]+/g, '-')
+}
+
+module.exports = {
+  kebab
 }
